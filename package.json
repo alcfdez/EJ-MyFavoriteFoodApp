@@ -1,0 +1,23 @@
+{
+  "name":"yes",
+  "version": "1.0.0",
+  "description": "EJERCICIO MY FAVORITE FOOD APP\r replicar pagina según boceto de Figma Proporcionado usando html/css/sass",
+  "main": "index.js",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "npx sass --watch src/sass/styles.scss:public/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alcfdez/EJ-MyFavoriteFoodApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alcfdez/EJ-MyFavoriteFoodApp/issues"
+  },
+  "homepage": "https://github.com/alcfdez/EJ-MyFavoriteFoodApp#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}

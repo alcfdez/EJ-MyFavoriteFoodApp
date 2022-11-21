@@ -1,0 +1,23 @@
+@import'variables';
+
+*{
+    background-color:aquamarine;
+    margin: 20px;
+}
+
+.caja-titulo { 
+    border:$border;
+    font-family:$font;
+    color:$font-color;
+    text-align:center;
+
+}
+    
+.baner{
+    background-size: cover;
+    background-position: center center;
+    border-radius: 30px;
+    width: 100px;
+    height: 50px;
+        
+}
